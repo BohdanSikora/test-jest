@@ -1,0 +1,19 @@
+{
+  "name": "task-test",
+  "version": "1.0.0",
+  "description": "Jest task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "javascript"
+  ],
+  "author": "bohdan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
